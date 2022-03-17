@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.addressbook.AddressBookMainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-17T06:12:30" hostname="adminroot-HP-EliteBook-840-G5" time="0.021">
+  <properties/>
+  <testcase name="shouldAnswerWithTrue()" classname="com.addressbook.AddressBookMainTest" time="0.021"/>
+  <system-out><![CDATA[File I/O
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
